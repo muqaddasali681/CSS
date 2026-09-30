@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(8, 99, 68);
+}
+
+h2{
+    color:blueviolet;
+}
+
+p{
+    color:chartreuse;
+}
+
+button{
+    color:rgb(126, 96, 59);
+    background-color:gold;
+}
+
+body{
+    background-color:rgb(230, 107, 172);
+}
+
+
