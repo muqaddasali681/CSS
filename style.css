@@ -3,20 +3,20 @@ h1 {
 }
 
 h2{
-    color:blueviolet;
+    color:black;
 }
 
 p{
-    color:chartreuse;
+    color:rgb(126, 96, 59);
 }
 
 button{
     color:rgb(126, 96, 59);
-    background-color:gold;
+    background-color:skyblue;
 }
 
 body{
-    background-color:rgb(230, 107, 172);
+    background-color:burlywood;
 }
 
 
