@@ -1,22 +1,33 @@
-h1 {
-    color: rgb(8, 99, 68);
+.colorSame{
+    color:rgb(231, 130, 7);
 }
 
-h2{
-    color:black;
-}
 
-p{
-    color:rgb(126, 96, 59);
-}
-
-button{
-    color:rgb(126, 96, 59);
-    background-color:skyblue;
-}
 
 body{
     background-color:burlywood;
 }
 
+#box{
+    color :white;
+    background-color:blue;
+}
 
+.Heading{
+    color:red
+}
+
+/* button{
+    color:whitesmoke;
+    background-color:green;
+} */
+
+h1{
+    text-align:center;
+    text-decoration:underline;
+    text-decoration-color:darkmagenta;
+}
+
+a{
+    text-decoration:none;
+}
