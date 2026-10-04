@@ -5,7 +5,7 @@
 
 
 body{
-    background-color:burlywood;
+    background-color:cadetblue;
 }
 
 #box{
@@ -22,12 +22,65 @@ body{
     background-color:green;
 } */
 
-h1{
+h2{
     text-align:center;
     text-decoration:underline;
-    text-decoration-color:darkmagenta;
+    text-decoration-color:rgb(20, 20, 20);
 }
 
 a{
     text-decoration:none;
+}
+
+#h1{
+    font-weight:normal;
+}
+
+#h2{
+    font-weight:bolder;
+}
+
+#h3{
+    font-weight:lighter;
+}
+
+#h4{
+    font-weight:900;
+}
+
+p{
+    text-align:center;
+}
+
+#pOne{
+    font-family:cursive;
+    font-size: 20px;
+    line-height: 50px;
+}
+
+#pTwo{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    text-transform:none;
+
+}
+
+h3{
+    text-align:center;
+    text-transform:capitalize;
+}
+
+
+#pThree{
+          font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+             }
+
+#outer{
+    font-size:25px;
+    text-align:center;
+}
+
+#inner{
+    font-size:10px;
+    text-align:center;
 }
